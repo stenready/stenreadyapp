@@ -6,5 +6,5 @@
     <li>MongoDB</li>
 </ul>
 <p>Сделал лёгкий CRUD REST API. Фронт написан на vue.js (VUE CLI)</p>
-<p>Готовый результат <strong><a href="https://stenreadyapp.herokuapp.com/" target="__blank">тут</a></strong></p>
+<p>Готовый результат <strong><a href="https://stenreadyapp.herokuapp.com/" target="_blank">тут</a></strong></p>
 <p>Автор : <strong>mastars2319@gmail.com</strong></p>
